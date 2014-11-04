@@ -1,6 +1,6 @@
 #!/bin/bash
 nodejsURL=http://nodejs.org/dist/node-latest.tar.gz
-nodeApp=https://github.com/amirrajan/word-finder.git
+nodeApp=https://github.com/dunna/word-finder.git
 
 yum install -y wget openssl-devel gcc-c++ make git
 rm -r -f /usr/local/src
